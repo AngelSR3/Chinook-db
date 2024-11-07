@@ -1,7 +1,7 @@
-###### 🛸SQLProject🛸
+###### 🛸AngelDev🛸
 
 ---
-# Bienvenido a UniversityDB 👽️
+# Bienvenido a ChinookDB 🎸
 ⚠️➡︎ Base de datos totalmente funcional para la gestión y manejo de datos --> Chinook
 
 ---
